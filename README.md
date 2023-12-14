@@ -69,5 +69,5 @@ django-admin startproject プロジェクトフォルダ名
 Djangoでは、 `manage.py` があるディレクトリで、 `startapp` することで機能別のディレクトリを生成する設計
 
 ```
-python manage.py startapp accounts
+django-admin startapp accounts
 ```
