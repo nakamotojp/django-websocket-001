@@ -71,3 +71,9 @@ Djangoでは、 `manage.py` があるディレクトリで、 `startapp` する�
 ```
 django-admin startapp accounts
 ```
+
+#### error
+
+```
+django.core.exceptions.ImproperlyConfigured: AUTH_USER_MODEL refers to model 'accounts.User' that has not been installed
+```
