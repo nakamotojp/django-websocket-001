@@ -54,7 +54,7 @@ pip install Django
 `.` だとカレントディレクトリに `manage.py` が生成される
 
 ```
-django-admin startproject .
+django-admin startproject config .
 ```
 
 #### プロジェクトフォルダを作成する場合
